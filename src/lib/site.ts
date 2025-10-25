@@ -1,10 +1,10 @@
 export const siteConfig = {
-  name: "SkyAgent",
-  url: "https://agent-magicui.vercel.app",
-  description: "Your template for building AI-powered agents with Magic UI.",
+  name: "NEUROMARKT™️",
+  url: "https://neuromrkt.it",
+  description: "L'agenzia IA che pensa, crea e vende per te.",
   links: {
-    twitter: "https://x.com/dillionverma",
-    github: "https://github.com/dillionverma",
+    twitter: "https://x.com/neuromarkt",
+    github: "https://github.com/mirkodgzconsulting",
   },
 };
 
