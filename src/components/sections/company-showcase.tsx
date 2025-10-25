@@ -22,11 +22,12 @@ export function CompanyShowcase() {
             <div className="transition-all duration-200 [cubic-bezier(0.165, 0.84, 0.44, 1)] translate-y-0 group-hover:-translate-y-4 duration-300 flex items-center justify-center w-full h-full">
               {logo.logo}
             </div>
-            <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 translate-y-8 group-hover:translate-y-4 transition-all duration-300 ease-[cubic-bezier(0.165, 0.84, 0.44, 1)]">
+            {/* Learn More text hidden for now */}
+            {/* <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 translate-y-8 group-hover:translate-y-4 transition-all duration-300 ease-[cubic-bezier(0.165, 0.84, 0.44, 1)]">
               <span className="flex items-center gap-2 text-sm font-medium">
                 Learn More <ArrowRight className="w-4 h-4" />
               </span>
-            </div>
+            </div> */}
           </Link>
         ))}
       </div>
