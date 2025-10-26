@@ -11,11 +11,11 @@ export function TestimonialSection() {
       className="flex flex-col items-center justify-center w-full"
     >
       <SectionHeader>
-        <h2 className="text-3xl md:text-4xl font-medium tracking-tighter text-center text-balance">
+        <h2 className="text-3xl md:text-4xl font-medium section-title text-center text-balance">
           Cosa dicono i nostri clienti
         </h2>
         <p className="text-muted-foreground text-center text-balance font-medium">
-          Scopri come NEUROMARKT™️ sta trasformando il marketing di aziende come la tua con risultati concreti e misurabili.
+          Scopri come NEUROMRKT™️ sta trasformando il marketing di aziende come la tua con risultati concreti e misurabili.
         </p>
       </SectionHeader>
       <SocialProofTestimonials testimonials={testimonials} />

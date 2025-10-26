@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: siteConfig.name,
   description: siteConfig.description,
   keywords: [
-    "NEUROMARKT",
+    "NEUROMRKT",
     "AI Marketing",
     "Agente Virtuale",
     "Automazione Marketing",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "NEUROMARKT Team",
+      name: "NEUROMRKT Team",
       url: "https://neuromarkt.com",
     },
   ],

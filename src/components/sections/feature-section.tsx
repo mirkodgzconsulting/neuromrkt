@@ -11,7 +11,7 @@ export function FeatureSection() {
       className="flex flex-col items-center justify-center gap-5 w-full relative"
     >
       <SectionHeader>
-        <h2 className="text-3xl md:text-4xl font-medium tracking-tighter text-center text-balance">
+        <h2 className="text-3xl md:text-4xl font-medium section-title text-center text-balance">
           {title}
         </h2>
         <p className="text-muted-foreground text-center text-balance font-medium">

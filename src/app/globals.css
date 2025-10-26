@@ -42,6 +42,7 @@
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
+  --title-tracking: -1px; /* Letter spacing para títulos de sección */
   --animate-accordion-down: accordion-down 0.2s ease-out;
   --animate-accordion-up: accordion-up 0.2s ease-out;
   --animate-marquee: marquee var(--duration) infinite linear;
@@ -299,4 +300,9 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+/* Clase personalizada para títulos de sección */
+.section-title {
+  letter-spacing: var(--title-tracking);
 }

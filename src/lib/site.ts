@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "NEUROMARKT™️",
+  name: "NEUROMRKT™️",
   url: "https://neuromrkt.it",
   description: "L'agenzia IA che pensa, crea e vende per te.",
   links: {

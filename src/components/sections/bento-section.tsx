@@ -16,7 +16,7 @@ export function BentoSection() {
         <div className="absolute top-0 -right-4 md:-right-14 h-full w-4 md:w-14 text-primary/5 bg-[size:10px_10px] [background-image:repeating-linear-gradient(315deg,currentColor_0_1px,#0000_0_50%)]"></div>
 
         <SectionHeader>
-          <h2 className="text-3xl md:text-4xl font-medium tracking-tighter text-center text-balance pb-1">
+          <h2 className="text-3xl md:text-4xl font-medium section-title text-center text-balance pb-1">
             {title}
           </h2>
           <p className="text-muted-foreground text-center text-balance font-medium">

@@ -28,7 +28,7 @@ export const Highlight = ({
 export const BLUR_FADE_DELAY = 0.15;
 
 export const siteConfig = {
-  name: "NEUROMARKT™️",
+  name: "NEUROMRKT™️",
   description: "L'agenzia IA che pensa, crea e vende per te.",
   cta: "Attiva il tuo Agente",
   url: process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000",
@@ -72,7 +72,7 @@ export const siteConfig = {
     badge: "L'agenzia IA che non dorme mai",
     title: "Il tuo agente virtuale di marketing 24/7",
     description:
-      "Strategia, contenuti, social e pubblicità: tutto gestito dall'intelligenza artificiale. Con NEUROMARKT™️ porti il tuo business nel futuro.",
+      "Strategia, contenuti, social e pubblicità: tutto gestito dall'intelligenza artificiale. Con NEUROMRKT™️ porti il tuo business nel futuro.",
     cta: {
       primary: {
         text: "Inizia ora",
@@ -245,7 +245,7 @@ export const siteConfig = {
   featureSection: {
     title: "Semplice. Veloce. Interamente automatizzato.",
     description:
-      "Scopri come NEUROMARKT™️ gestisce il tuo marketing in 4 passaggi",
+      "Scopri come NEUROMRKT™️ gestisce il tuo marketing in 4 passaggi",
     items: [
       {
         id: 1,
@@ -277,7 +277,7 @@ export const siteConfig = {
         content:
           "Ogni settimana l'agente virtuale adatta copy, budget e pubblico in base ai risultati reali.",
         image:
-          "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop",
+          "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=600&fit=crop&auto=format&q=80",
       },
     ],
   },
@@ -721,7 +721,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/women/44.jpg",
       description: (
         <p>
-          Prima avevamo 5 fornitori diversi, ora solo NEUROMARKT™️:
+          Prima avevamo 5 fornitori diversi, ora solo NEUROMRKT™️:
           <Highlight>
             l&apos;IA gestisce Ads, post, clienti e analisi.
           </Highlight>{" "}
@@ -807,7 +807,7 @@ export const siteConfig = {
         <p>
           Prima gestivamo social, ads e email con 3 fornitori diversi.
           <Highlight>
-            Ora NEUROMARKT™️ fa tutto e costa meno.
+            Ora NEUROMRKT™️ fa tutto e costa meno.
           </Highlight>{" "}
           Semplicità e risultati concreti.
         </p>
@@ -880,7 +880,7 @@ export const siteConfig = {
       img: "https://randomuser.me/api/portraits/men/48.jpg",
       description: (
         <p>
-          NEUROMARKT™️ crea video, post e copy per i miei corsi online.
+          NEUROMRKT™️ crea video, post e copy per i miei corsi online.
           <Highlight>Le iscrizioni sono raddoppiate ogni mese.</Highlight> Un
           assistente marketing che non dorme mai.
         </p>
@@ -895,7 +895,7 @@ export const siteConfig = {
         <p>
           Abbiamo lanciato 3 campagne multi-canale in una settimana.
           <Highlight>
-            Senza NEUROMARKT™️ ci sarebbero voluti 2 mesi e un team intero.
+            Senza NEUROMRKT™️ ci sarebbero voluti 2 mesi e un team intero.
           </Highlight>{" "}
           Velocità e qualità imbattibili.
         </p>
@@ -905,7 +905,7 @@ export const siteConfig = {
   faqSection: {
     title: "Domande Frequenti",
     description:
-      "Tutto quello che devi sapere su NEUROMARKT™️. Per altre domande, contattaci direttamente.",
+      "Tutto quello che devi sapere su NEUROMRKT™️. Per altre domande, contattaci direttamente.",
     faQitems: [
       {
         id: 1,
